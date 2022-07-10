@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1 className="text-2xl text-center font-bold  p-4 uppercase">
-        Rental Service
+        Rental Services
       </h1>
     </div>
   )
